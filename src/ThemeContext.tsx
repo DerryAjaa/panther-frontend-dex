@@ -33,3 +33,5 @@ const ThemeContextProvider: React.FC = ({ children }) => {
 }
 
 export { ThemeContext, ThemeContextProvider }
+return {
+}
